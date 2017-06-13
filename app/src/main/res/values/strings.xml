@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fantasy Helper</string>
+    <string name="edit_message">Enter Player Name</string>
+    <string name="button_send">Find</string>
+</resources>
